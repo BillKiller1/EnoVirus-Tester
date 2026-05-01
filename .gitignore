@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+config.json
+/storage/emulated/0/EnoVirus/
+.DS_Store
